@@ -1,5 +1,14 @@
 import java.util.Scanner;
 
+/**
+ * Este método é utilizado para somar três números inteiros
+ * e dividir por 3
+ * 
+ * @param n1 este é o primeiro parâmetro para o método
+ * @param n2 este é o segundo parâmetro para o método
+ * @param n3 este é o segundo parâmetro para o método
+ * @media é o resultado deste método multiplicado por 3
+ */
 public class CalculadoraMedia {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
